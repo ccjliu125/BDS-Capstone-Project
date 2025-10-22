@@ -1,2 +1,4 @@
 # BDS-Capstone-Project
 Biomedical Data Science Capstone Project on Medical Segmentation Decathlon Task 1 Dataset (Brain Imaging Segmentation)
+
+Link to Project Video: https://livejohnshopkins-my.sharepoint.com/:v:/g/personal/cliu214_jh_edu/EZ_hMtMMaY9FiP_J2oirV3oBVQ-eoSsCSp3n08MeqN1wZQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=g9R60P
